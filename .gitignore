@@ -1,0 +1,8 @@
+*.zip
+*.ipynb
+*.txt
+*.png
+*.pdf
+FFN*.py
+*Test.py
+getVocab.py
