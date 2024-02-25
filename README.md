@@ -1,8 +1,3 @@
-## Assignment 2 
-## Intro to NLP
-### 2021101115 
----
----
 
 * To run this project, use the command in the terminal of this directory:
 ```bash
